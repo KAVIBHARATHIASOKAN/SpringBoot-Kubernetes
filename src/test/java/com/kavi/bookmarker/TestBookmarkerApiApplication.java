@@ -1,4 +1,4 @@
-package com.sivalabs.bookmarker;
+package com.kavi.bookmarker;
 
 import org.springframework.boot.SpringApplication;
 
