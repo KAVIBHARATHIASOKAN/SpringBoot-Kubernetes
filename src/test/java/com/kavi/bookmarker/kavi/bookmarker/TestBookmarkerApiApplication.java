@@ -1,5 +1,6 @@
-package com.kavi.bookmarker;
+package com.kavi.bookmarker.kavi.bookmarker;
 
+import com.kavi.bookmarker.BookmarkerApiApplication;
 import org.springframework.boot.SpringApplication;
 
 public class TestBookmarkerApiApplication {

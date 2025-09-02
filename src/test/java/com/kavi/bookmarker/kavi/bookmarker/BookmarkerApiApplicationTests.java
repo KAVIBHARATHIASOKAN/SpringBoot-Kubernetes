@@ -1,4 +1,4 @@
-package com.kavi.bookmarker;
+package com.kavi.bookmarker.kavi.bookmarker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

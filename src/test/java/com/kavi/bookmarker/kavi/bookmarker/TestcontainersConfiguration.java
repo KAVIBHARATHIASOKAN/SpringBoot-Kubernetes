@@ -1,4 +1,4 @@
-package com.kavi.bookmarker;
+package com.kavi.bookmarker.kavi.bookmarker;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;
